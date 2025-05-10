@@ -1,4 +1,6 @@
-##About
--This is a simple Recipe webiste
--It conatains a list of recipes
--Built on pure HTML
+
+## About
+
+- This is a simple recipe website.
+- It contains a list of recipes.
+- Built with pure HTML.
